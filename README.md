@@ -1,4 +1,4 @@
------------------------------- Finalatics Data Science Program ---------------------------
+------------------------------ Finlatics Data Science Program ---------------------------
 
 <br>
 Final Project Case Study:
